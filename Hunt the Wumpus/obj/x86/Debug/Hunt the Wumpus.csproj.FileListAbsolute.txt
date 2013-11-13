@@ -1,0 +1,5 @@
+C:\Users\oparamo\Documents\Visual Studio 2010\Projects\Hunt the Wumpus\Hunt the Wumpus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oparamo\Documents\Visual Studio 2010\Projects\Hunt the Wumpus\Hunt the Wumpus\bin\Debug\Hunt the Wumpus.exe
+C:\Users\oparamo\Documents\Visual Studio 2010\Projects\Hunt the Wumpus\Hunt the Wumpus\bin\Debug\Hunt the Wumpus.pdb
+C:\Users\oparamo\Documents\Visual Studio 2010\Projects\Hunt the Wumpus\Hunt the Wumpus\obj\x86\Debug\Hunt the Wumpus.exe
+C:\Users\oparamo\Documents\Visual Studio 2010\Projects\Hunt the Wumpus\Hunt the Wumpus\obj\x86\Debug\Hunt the Wumpus.pdb
